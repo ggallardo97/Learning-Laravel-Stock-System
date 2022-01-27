@@ -1,1 +1,1 @@
-# Simple Stock System
+# Inventory Management System
